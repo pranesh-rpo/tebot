@@ -1,4 +1,4 @@
-BOT_TOKEN = '8498452597:AAF0SZHC0_ONB-vFV90eD6PU-gp-HEaSKVM'
+BOT_TOKEN = '8260283877:AAEE1B73vrfxvY0zKOkyzG10NTR5NiKReAA'
 
 import logging
 from telegram import Update, ReplyKeyboardMarkup, ReplyKeyboardRemove, InlineKeyboardMarkup, InlineKeyboardButton
